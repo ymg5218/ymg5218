@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20to%20Mingyu's%20Github%20!&height=150&fontSize=60&desc=누추한%20곳에%20귀한%20분이..!&descAlignY=85&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20to%20Mingyu's%20Github%20!&height=150&fontSize=60)
 <hr>
   
 <div align='center'>
