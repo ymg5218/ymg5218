@@ -1,8 +1,6 @@
 ## Welcome to Mingyu's Github!
 
-<div>
-  <img src="![민규](https://github.com/ymg5218/ymg5218/assets/87100737/7e9105d2-dd63-4056-ad57-bd0302bac2c5)">
-</div>
+![민규](https://github.com/ymg5218/ymg5218/assets/87100737/7e9105d2-dd63-4056-ad57-bd0302bac2c5)
 
 
 <!--
