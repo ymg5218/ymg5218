@@ -1,5 +1,5 @@
 ## Welcome to Mingyu's Github!
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20to%20Mingyu's%20Github%20!&height=150&fontSize=60&desc=누추한%20곳에%20귀한%20분이..!&descAlignY=75&descAlign=90)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20to%20Mingyu's%20Github%20!&height=150&fontSize=60&desc=누추한%20곳에%20귀한%20분이..!&descAlignY=95&descAlign=60)
   
 <div align='center'>
   <img src="https://github.com/ymg5218/ymg5218/assets/87100737/7e9105d2-dd63-4056-ad57-bd0302bac2c5" width = 300 height = 300>
