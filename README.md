@@ -1,4 +1,3 @@
-
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20to%20Mingyu's%20Github%20!&height=150&fontSize=60)
 <hr>
 
@@ -7,6 +6,9 @@
   <img src="https://github.com/ymg5218/ymg5218/assets/87100737/7e9105d2-dd63-4056-ad57-bd0302bac2c5" width = 300 height = 300>
 </div>
 
+<div>
+  <img src="https://github.com/ymg5218/ymg5218/assets/87100737/e68c68c8-0908-4328-8345-cba24369cc45" href="https://ymg5218.tistory.com/">
+</div>
 <!--
 **ymg5218/ymg5218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
