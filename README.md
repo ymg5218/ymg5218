@@ -1,4 +1,9 @@
-### Hi there 👋
+## Welcome to my Github!
+
+<div>
+  <img src='C:\Users\youmm\Desktop\민규.jpg'>
+</div>
+
 
 <!--
 **ymg5218/ymg5218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
