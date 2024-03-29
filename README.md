@@ -1,5 +1,5 @@
 ## Welcome to Mingyu's Github!
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Welcome to Mingyu's Github!%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
   
 <div align='center'>
   <img src="https://github.com/ymg5218/ymg5218/assets/87100737/7e9105d2-dd63-4056-ad57-bd0302bac2c5" width = 300 height = 300>
