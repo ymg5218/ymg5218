@@ -1,7 +1,7 @@
 ## Welcome to Mingyu's Github!
 
 <div>
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51">
+  <img src="![민규](https://github.com/ymg5218/ymg5218/assets/87100737/7e9105d2-dd63-4056-ad57-bd0302bac2c5)">
 </div>
 
 
