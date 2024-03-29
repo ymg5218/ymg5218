@@ -1,4 +1,4 @@
-<hr>
+
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20to%20Mingyu's%20Github%20!&height=150&fontSize=60)
 <hr>
 
