@@ -1,7 +1,8 @@
 ## Welcome to Mingyu's Github!
 
-![민규](https://github.com/ymg5218/ymg5218/assets/87100737/7e9105d2-dd63-4056-ad57-bd0302bac2c5)
-
+<div>
+  <img src="https://github.com/ymg5218/ymg5218/assets/87100737/7e9105d2-dd63-4056-ad57-bd0302bac2c5" width = 200 height = 200 center>
+</div>
 
 <!--
 **ymg5218/ymg5218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
