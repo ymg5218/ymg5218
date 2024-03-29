@@ -7,12 +7,10 @@
 </div>
 <hr>
 <div>
-  <div style="display:inline-block;vertical-align:top;">
+  <div>
     <a href="https://ymg5218.tistory.com/">
       <img src="https://github.com/ymg5218/ymg5218/assets/87100737/e68c68c8-0908-4328-8345-cba24369cc45" width=40 height=40>
     </a>
-  </div>
-  <div style="display:inline-block;">
   <p>개인 블로그</p>
   </div>
 </div>
