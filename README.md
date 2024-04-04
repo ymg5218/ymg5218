@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=threebr123)](https://solved.ac/threebr123/)
 
-![JAVA](https://img.shields.io/badge/JAVA-#007396.svg?&style=for-the-badge&logo=JAVA&logoColor=#007396)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <!--
 **ymg5218/ymg5218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
