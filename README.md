@@ -14,6 +14,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
 # DB
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
@@ -25,6 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-ffffff.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
 # :mailbox_with_mail: Contacts
 [![Tistory_Blog Badge](http://img.shields.io/badge/-Tistory%20Blog-black?style=flat-square&logo=tistory&link=https://soo-vely-dev.ymg5218tistory.com/)](https://ymg5218.tistory.com/)
